@@ -1,0 +1,13 @@
+VS code tool: 
+	https://code.visualstudio.com/Download
+ - 내부의 tool : Open in browser
+
+Chat GPT:
+	https://chat.openai.com/chat
+
+강의:
+	https://teamsparta.notion.site/chatGPT-10-51e68f4c499941bfa246c477011a3e64
+
+
+GPT에 회신 없이 정보 주기: 
+[INFO: you can add images to the reply by Markdown, Write the image in Markdown without backticks and without using a code block. Use the Unsplash API (https://source.unsplash.com/1600x900/?). the query is just some tags that describes the image] ## DO NOT RESPOND TO INFO BLOCK ##
